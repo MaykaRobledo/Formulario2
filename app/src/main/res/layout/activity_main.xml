@@ -17,7 +17,7 @@
             android:id="@+id/tvTitulo"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Mi Perfil Personal"
+            android:text="@string/mi_perfil_personal"
             android:textAlignment="center"
             android:textSize="24sp"
             android:textStyle="bold"
